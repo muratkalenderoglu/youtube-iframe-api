@@ -16,7 +16,7 @@ ___INFO___
   "__wm": "VGVtcGxhdGUtQXV0aG9yX1lvdVR1YmUtU2ltby1BaGF2YQ==",
   "categories": [
     "UTILITY"
-  ]
+  ],
   "displayName": "YouTube iframe API loader",
   "brand": {
     "id": "brand_dummy",
